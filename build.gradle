@@ -37,6 +37,6 @@ tasks.named('test') {
 }
 
 bootWar {
-    archiveBaseName = 'gradle-demo'
-    archiveFileName = 'gradle-demo.war'
+    archiveBaseName = 'gradledemo'
+    archiveFileName = 'gradledemo.war'
 }
